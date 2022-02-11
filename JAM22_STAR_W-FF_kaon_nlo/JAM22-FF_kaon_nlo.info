@@ -1,4 +1,4 @@
-SetDesc:         "JAM22 NLO global analysis of proton PDFs, PPDFs, pion FFs, and kaon FFs"
+SetDesc:         "JAM22 NLO global analysis of proton PDFs, PPDFs, pion FFs, and kaon FFs; mem=0 -> average of replicas; mem > 0 -> replicas"
 SetIndex:        1
 Authors:         JAM Collaboration. C. Cocuzza, W. Melnitchouk, A. Metz, N. Sato
 Reference:       N/A
