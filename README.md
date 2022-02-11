@@ -11,7 +11,9 @@ Simultaneous analysis of unpolarized PDFs, polarized PDFs, pion FFs, and kaon FF
 [star-arXiv]:     https://arxiv.org/abs/2202.03372
 [star-inspire]:     https://inspirehep.net/literature/2029139
 
+# Notes
 
+For the PDFs, PPDFs, pion FFs, and kaon FFs, member 0000 is the mean of the replicas.
 
 
 
