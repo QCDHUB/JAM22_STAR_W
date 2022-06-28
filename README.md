@@ -13,8 +13,6 @@ Simultaneous analysis of unpolarized PDFs, polarized PDFs, pion FFs, and kaon FF
 
 # Notes
 
-For the PDFs, PPDFs, pion FFs, and kaon FFs, member 0000 is the mean of the replicas.
-This is NOT true for the structure functions (need to update this)
 
 
 
