@@ -1,6 +1,6 @@
 # JAM22_STAR_W
 
-Simultaneous analysis of unpolarized PDFs, polarized PDFs, pion FFs, and kaon FFs
+Simultaneous analysis of unpolarized PDFs, polarized PDFs, pion FFs, kaon FFs, and unidentified hadron FFs
 
 # Related Paper
 
@@ -13,7 +13,7 @@ Simultaneous analysis of unpolarized PDFs, polarized PDFs, pion FFs, and kaon FF
 
 # Notes
 
-
+For the PDFs, PPDFs, and FFs, 0000 is the mean of the replicas.
 
 
 
